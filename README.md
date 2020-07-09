@@ -11,3 +11,6 @@ so the data provides temperature in farenheit. With a formula, celsius provided 
 Representative pictures are stored on different URLs.
 Weather icon code fetched and passed in a string that using the url of an icon within back quotes again.
 The icon codes are passed as a variable.
+
+
+![WeatherApp](https://user-images.githubusercontent.com/55841911/87067026-67324d00-c20b-11ea-9f32-ff8e08188054.png)
